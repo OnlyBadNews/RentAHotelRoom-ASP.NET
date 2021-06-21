@@ -57,7 +57,7 @@ using RentAHotelRoom.Models;
             WriteLiteral("<h4>Search for a Hotel</h4>\r\n<hr />\r\n<div class=\"row\">\r\n    <div class=\"col-md-4\">\r\n        ");
             EndContext();
             BeginContext(92, 392, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4bc1937027ce41e6bc8c28916896f88f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ac5ea59254bf4f66a665add6d9c4ad10", async() => {
                 BeginContext(129, 348, true);
                 WriteLiteral(@"
             <div class=""form-group"">
@@ -89,7 +89,7 @@ using RentAHotelRoom.Models;
             WriteLiteral("\r\n    </div>\r\n</div>\r\n\r\n<div>\r\n    ");
             EndContext();
             BeginContext(519, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f54ab9e6f14e469ba7e8badb592be497", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4caae33265954732bb8d37c125138151", async() => {
                 BeginContext(541, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();

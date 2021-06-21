@@ -15,9 +15,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.HotelName)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.HotelTotalRooms)
-            </th>
+            
             <th></th>
         </tr>
     </thead>
@@ -27,9 +25,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.HotelName)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.HotelTotalRooms)
-            </td>
+            
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
