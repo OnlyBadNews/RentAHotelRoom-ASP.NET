@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using RentAHotelRoom.Models;
 
 namespace RentAHotelRoom.Data
 {
@@ -12,5 +13,6 @@ namespace RentAHotelRoom.Data
             : base(options)
         {
         }
+        public DbSet<RentAHotelRoom.Models.Hotel> Hotel { get; set; }
     }
 }

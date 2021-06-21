@@ -9,7 +9,6 @@ C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRo
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.csproj.CoreCompileInputs.cache
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.RazorAssemblyInfo.cache
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.RazorAssemblyInfo.cs
-C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.AssemblyInfoInputs.cache
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.AssemblyInfo.cs
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.TagHelpers.input.cache
@@ -33,3 +32,9 @@ C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRo
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.dll
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.pdb
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\RentAHotelRoom.csproj.CopyComplete
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Create.g.cshtml.cs
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Delete.g.cshtml.cs
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Details.g.cshtml.cs
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Edit.g.cshtml.cs
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Index.g.cshtml.cs
