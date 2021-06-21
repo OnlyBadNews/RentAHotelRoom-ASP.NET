@@ -25,6 +25,18 @@ namespace RentAHotelRoom.Controllers
             return View(await _context.Hotel.ToListAsync());
         }
 
+        // GET: Hotels/ShowSearchForm
+        public async Task<IActionResult> ShowSearchForm()
+        {
+            return View();
+        }
+
+        // PoST: Hotels/ShowSearchResults
+        public async Task<IActionResult> ShowSearchResults(String SearchPhrase)
+        {
+            return View("Index", await _context.Hotel.Where( j => j.HotelName.Contains(SearchPhrase)).ToListAsync());
+        }
+
         // GET: Hotels/Details/5
         public async Task<IActionResult> Details(int? id)
         {

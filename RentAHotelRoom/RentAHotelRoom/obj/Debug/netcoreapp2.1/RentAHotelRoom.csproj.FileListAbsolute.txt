@@ -38,3 +38,4 @@ C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRo
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Details.g.cshtml.cs
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Edit.g.cshtml.cs
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\Index.g.cshtml.cs
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Hotels\ShowSearchForm.g.cshtml.cs
