@@ -44,3 +44,4 @@ C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRo
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\HotelRooms\Details.g.cshtml.cs
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\HotelRooms\Edit.g.cshtml.cs
 C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\HotelRooms\Index.g.cshtml.cs
+C:\Users\Pavel\Documents\Visual Studio 2017\Projects\RentAHotelRoom\RentAHotelRoom\obj\Debug\netcoreapp2.1\Razor\Views\Home\HotelsInfo.g.cshtml.cs

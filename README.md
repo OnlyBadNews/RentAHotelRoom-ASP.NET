@@ -16,8 +16,12 @@ I removed HotelTotalRooms from the Hotels table, so that it doesn't duplicate wi
 Added simple authentication that forces the user to log into an account if they want to add/edit/delete something.
 
 Fifth commit.
-I Added HotelRooms Page, Controller, Model, View and gave it simple Authorization.
+I added HotelRooms Page, Controller, Model, View and gave it simple Authorization.
 HotelRooms is the page where you check for free rooms and occupy one by giving your name and date of occupation.
 /TODO: Make it editable for Admin only or make it so you can't occupy an already taken troom.
+
+Sixth commit.
+I added HotelsInfo Page, where you'll be able to read a little more about the hotels. Minor page cleanups.
+/TODO: Up the quality of the page.
 
 /TODO: Add Admin Authentication; add a HotelsInfo page/s; cleanup code; cleanup CSS.

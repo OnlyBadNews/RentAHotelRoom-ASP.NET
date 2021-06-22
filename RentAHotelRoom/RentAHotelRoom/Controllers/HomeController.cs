@@ -34,6 +34,13 @@ namespace RentAHotelRoom.Controllers
             return View();
         }
 
+        public IActionResult HotelsInfo()
+        {
+            ViewData["Message"] = "Our hotels.";
+
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
