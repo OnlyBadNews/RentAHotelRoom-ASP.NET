@@ -14,5 +14,6 @@ namespace RentAHotelRoom.Data
         {
         }
         public DbSet<RentAHotelRoom.Models.Hotel> Hotel { get; set; }
+        public DbSet<RentAHotelRoom.Models.HotelRoom> HotelRoom { get; set; }
     }
 }
