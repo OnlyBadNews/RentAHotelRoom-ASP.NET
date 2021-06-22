@@ -19,3 +19,5 @@ Fifth commit.
 I Added HotelRooms Page, Controller, Model, View and gave it simple Authorization.
 HotelRooms is the page where you check for free rooms and occupy one by giving your name and date of occupation.
 /TODO: Make it editable for Admin only or make it so you can't occupy an already taken troom.
+
+/TODO: Add Admin Authentication; add a HotelsInfo page/s; cleanup code; cleanup CSS.
